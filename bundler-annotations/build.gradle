@@ -15,7 +15,7 @@ dependencies {
 ext {
     bintrayRepo = 'maven'
     bintrayName = 'bundler-annotations'
-    orgName = 'workarounds'
+    orgName = 'david-wei'
 
     publishedGroupId = 'in.workarounds.bundler'
     libraryName = 'Bundler'
@@ -23,14 +23,14 @@ ext {
 
     libraryDescription = 'Annotations for bundler library'
 
-    siteUrl = 'https://github.com/workarounds/bundler'
-    gitUrl = 'https://github.com/workarounds/bundler.git'
+    siteUrl = 'https://github.com/alighters/bundler'
+    gitUrl = 'https://github.com/alighters/bundler.git'
 
     libraryVersion = rootProject.ext.libraryVersion
 
-    developerId = 'workarounds'
-    developerName = 'Workarounds'
-    developerEmail = 'contact@workarounds.in'
+    developerId = 'david-wei'
+    developerName = 'lighters'
+    developerEmail = 'huangdiv5@gmail.com'
 
     licenseName = 'The Apache Software License, Version 2.0'
     licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
